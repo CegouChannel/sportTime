@@ -1,0 +1,15 @@
+2023-03-14T17:34:20+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\localhost\wp-includes\functions.php на строке 651
+
+2023-03-14T17:36:53+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OpenServer\domains\localhost\wp-includes\post.php на строке 1022
+
+2023-03-14T17:40:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function query_posts(), 0 passed in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\contact.php on line 61 and exactly 1 expected in C:\OpenServer\domains\localhost\wp-includes\query.php:96
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-content\themes\sport-time\contact.php(61): query_posts()
+#1 C:\OpenServer\domains\localhost\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#4 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-includes\query.php на строке 96
+
+2023-03-14T17:52:45+00:00 CRITICAL syntax error, unexpected token "[", expecting ":" в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\contact.php на строке 61
+

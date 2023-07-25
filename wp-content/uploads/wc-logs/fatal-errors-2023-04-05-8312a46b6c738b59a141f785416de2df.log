@@ -1,0 +1,14 @@
+2023-04-05T16:48:10+00:00 CRITICAL Cannot redeclare wc_get_container() (previously declared in /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/plugins/woocommerce/woocommerce.php:58) в /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/themes/sport-time/woocommerce.php на строке 44
+
+2023-04-05T16:48:12+00:00 CRITICAL Cannot redeclare wc_get_container() (previously declared in /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/plugins/woocommerce/woocommerce.php:58) в /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/themes/sport-time/woocommerce.php на строке 44
+
+2023-04-05T16:48:13+00:00 CRITICAL Cannot redeclare wc_get_container() (previously declared in /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/plugins/woocommerce/woocommerce.php:58) в /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/themes/sport-time/woocommerce.php на строке 44
+
+2023-04-05T16:48:13+00:00 CRITICAL Cannot redeclare wc_get_container() (previously declared in /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/plugins/woocommerce/woocommerce.php:58) в /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/themes/sport-time/woocommerce.php на строке 44
+
+2023-04-05T16:48:13+00:00 CRITICAL Cannot redeclare wc_get_container() (previously declared in /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/plugins/woocommerce/woocommerce.php:58) в /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/themes/sport-time/woocommerce.php на строке 44
+
+2023-04-05T16:48:14+00:00 CRITICAL Cannot redeclare wc_get_container() (previously declared in /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/plugins/woocommerce/woocommerce.php:58) в /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/themes/sport-time/woocommerce.php на строке 44
+
+2023-04-05T16:58:54+00:00 CRITICAL syntax error, unexpected 'WP' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) в /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/plugins/google-listings-and-ads/src/Ads/AssetSuggestionsService.php на строке 35
+

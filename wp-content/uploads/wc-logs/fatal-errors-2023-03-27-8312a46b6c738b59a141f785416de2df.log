@@ -1,0 +1,48 @@
+2023-03-27T12:40:12+00:00 CRITICAL Uncaught Error: Undefined constant "‘woocommerce’" in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php:119
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-settings.php(585): include()
+#1 C:\OpenServer\domains\localhost\wp-config.php(95): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\wp-load.php(50): require_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\localhost\wp-blog-header.php(13): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#5 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php на строке 119
+
+2023-03-27T12:40:15+00:00 CRITICAL Uncaught Error: Undefined constant "‘woocommerce’" in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php:119
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-settings.php(585): include()
+#1 C:\OpenServer\domains\localhost\wp-config.php(95): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\wp-load.php(50): require_once('C:\\OpenServer\\d...')
+#3 C:\OpenServer\domains\localhost\wp-blog-header.php(13): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#5 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php на строке 119
+
+2023-03-27T14:58:00+00:00 CRITICAL Uncaught Error: Undefined constant "woocommerce_my_account" in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\profile.php:4
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\localhost\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\profile.php на строке 4
+
+2023-03-27T14:58:15+00:00 CRITICAL Uncaught Error: Undefined constant "woocommerce_my_account" in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\profile.php:4
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\localhost\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\profile.php на строке 4
+
+2023-03-27T17:46:58+00:00 CRITICAL syntax error, unexpected token "function" в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php на строке 10
+
+2023-03-27T17:47:01+00:00 CRITICAL syntax error, unexpected token "function" в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php на строке 10
+
+2023-03-27T17:47:04+00:00 CRITICAL syntax error, unexpected token "function" в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php на строке 10
+
+2023-03-27T17:47:07+00:00 CRITICAL syntax error, unexpected token "function" в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php на строке 10
+
+2023-03-27T18:31:57+00:00 CRITICAL Cannot redeclare themeslug_enqueue_style() (previously declared in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php:26) в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\contact.php на строке 6
+
+2023-03-27T18:32:45+00:00 CRITICAL Cannot redeclare themeslug_enqueue_style() (previously declared in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php:26) в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\contact.php на строке 6
+

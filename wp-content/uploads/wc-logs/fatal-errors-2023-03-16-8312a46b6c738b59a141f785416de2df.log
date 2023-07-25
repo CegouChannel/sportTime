@@ -1,0 +1,83 @@
+2023-03-16T00:40:48+00:00 CRITICAL Uncaught Error: Object of class WP_Post could not be converted to string in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\shop.php:138
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\localhost\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\shop.php на строке 138
+
+2023-03-16T00:41:15+00:00 CRITICAL Uncaught Error: Object of class WP_Post could not be converted to string in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\shop.php:97
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\localhost\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\shop.php на строке 97
+
+2023-03-16T00:41:27+00:00 CRITICAL Uncaught Error: Object of class WP_Post could not be converted to string in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\shop.php:96
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\localhost\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\shop.php на строке 96
+
+2023-03-16T06:15:48+00:00 CRITICAL syntax error, unexpected end of file, expecting "{" в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php на строке 81
+
+2023-03-16T06:41:31+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "register_post_category" not found or invalid function name in C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 C:\OpenServer\domains\localhost\wp-includes\plugin.php(517): WP_Hook->do_action()
+#2 C:\OpenServer\domains\localhost\wp-settings.php(617): do_action()
+#3 C:\OpenServer\domains\localhost\wp-config.php(95): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\localhost\wp-load.php(50): require_once('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\localhost\wp-admin\admin-ajax.php(22): require_once('C:\\OpenServer\\d...')
+#6 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php на строке 308
+
+2023-03-16T06:41:59+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "register_post_category" not found or invalid function name in C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 C:\OpenServer\domains\localhost\wp-includes\plugin.php(517): WP_Hook->do_action()
+#2 C:\OpenServer\domains\localhost\wp-settings.php(617): do_action()
+#3 C:\OpenServer\domains\localhost\wp-config.php(95): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\localhost\wp-load.php(50): require_once('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\localhost\wp-admin\admin.php(34): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\localhost\wp-admin\post.php(12): require_once('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php на строке 308
+
+2023-03-16T06:42:02+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "register_post_category" not found or invalid function name in C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 C:\OpenServer\domains\localhost\wp-includes\plugin.php(517): WP_Hook->do_action()
+#2 C:\OpenServer\domains\localhost\wp-settings.php(617): do_action()
+#3 C:\OpenServer\domains\localhost\wp-config.php(95): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\localhost\wp-load.php(50): require_once('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\localhost\wp-admin\admin-ajax.php(22): require_once('C:\\OpenServer\\d...')
+#6 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php на строке 308
+
+2023-03-16T06:42:02+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "register_post_category" not found or invalid function name in C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 C:\OpenServer\domains\localhost\wp-includes\plugin.php(517): WP_Hook->do_action()
+#2 C:\OpenServer\domains\localhost\wp-settings.php(617): do_action()
+#3 C:\OpenServer\domains\localhost\wp-config.php(95): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\localhost\wp-load.php(50): require_once('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\localhost\wp-blog-header.php(13): require_once('C:\\OpenServer\\d...')
+#6 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#7 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php на строке 308
+
+2023-03-16T07:05:39+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($function) must be a valid callback, function "get_categories_products" not found or invalid function name in C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#1 C:\OpenServer\domains\localhost\wp-includes\plugin.php(517): WP_Hook->do_action()
+#2 C:\OpenServer\domains\localhost\wp-content\themes\sport-time\index.php(89): do_action()
+#3 C:\OpenServer\domains\localhost\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\localhost\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#5 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#6 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-includes\class-wp-hook.php на строке 308
+

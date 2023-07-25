@@ -1,0 +1,2 @@
+2023-04-04T17:28:41+00:00 CRITICAL syntax error, unexpected 'WP' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) в /var/www/u146490/data/www/u146490.test-handyhost.ru/wp-content/plugins/google-listings-and-ads/src/Ads/AssetSuggestionsService.php на строке 35
+

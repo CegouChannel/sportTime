@@ -1,0 +1,117 @@
+
+/* Theme Name: Sporttime
+Author: Cegou
+Author URI: https://wordpress.org/
+Description: SportTime
+Requires at least: 0.1 */
+*{
+    margin: 0;
+}
+.wrapper{
+    padding-top: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.header_up{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.header_up>input{
+    height: 50px;
+    width: 250px;
+    border-radius: 30px;
+    border: 1px solid rgb(255, 85, 0);
+    font-size: 15px;
+}
+
+.header_up>button{
+    height: 50px;
+    width: 140px;
+    border: none;
+    border-radius:30px;
+    background-color: rgb(255, 85, 0);
+    color: white;
+    font-size: 15px;
+}
+
+h1{
+    font-size: 10px;
+}
+
+input{
+    padding-left: 30px;
+}
+
+.header_down{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 30px;
+    background-color: rgb(255, 85, 0);
+    width: 100%;
+    height: 50px;
+}
+
+.header_down>h1{
+    font-size: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    width: 20%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.sort_products{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.sort_products>h1{
+    margin-left: 10px;
+    font-size: 15px;
+    color: rgb(120, 120, 120);
+    transition: .5s;
+    cursor: pointer;
+}
+
+.sort_click:hover{
+    color:rgb(255, 85, 0);
+    transition: .5s;
+}
+
+
+.slider_product{
+    width: 100%;
+    background-color: rgb(170, 170, 170);
+    height: 300px;
+    margin-top: 30px;
+}
+
+.content_products{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.content_products>div{
+    height: 210px;
+    width: 30%;
+    background-color: rgb(170, 170, 170);
+    margin-bottom: 40px;
+}
+
+.footer{
+    height: 500px;
+    background-color: rgb(255, 85, 0);
+    position: absolute;
+    width: 100%;
+    left: 0;
+}

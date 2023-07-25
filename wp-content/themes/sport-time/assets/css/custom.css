@@ -1,0 +1,42 @@
+.contacts>div>a{
+    margin-right: 10px;
+}
+
+.count_stars{
+    display: flex;
+    flex-direction: row;
+}
+
+.star{
+    height: 25px;
+    width: 25px;
+    margin-left: 5px;
+}
+
+.block_news{
+    min-height: 500px;
+    background-color: #fff;
+    max-width: 1320px;
+    display: flex;
+    flex-direction: column;
+}
+
+.new{
+    width: 100%;
+    min-height:100px;
+    border: 1px solid #efefef;
+    padding: 2% 5% 2% 5%;
+    margin-bottom: 30px;
+}
+
+.new>p{
+    width:100%;
+    text-align: start;
+    margin-top: 20px;
+}
+
+.new_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

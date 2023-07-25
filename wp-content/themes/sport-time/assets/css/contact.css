@@ -1,0 +1,44 @@
+.form-name,
+.form-surname,
+.form-email,
+.form-theme{
+  height: 50px;
+  width: 100%;
+  padding: 5px 5px 5px 5px;
+}
+
+.form-area {
+  width: 100%;
+  padding: 5px 5px 5px 5px;
+}
+
+.form-send {
+  height: 50px;
+  width: 140px;
+  background-color: #59ab6e;
+  border: none;
+  padding: 0;
+  color: #fff;
+  margin: 0 auto;
+  margin-top: 15px;
+  float: right;
+  margin-bottom: 15px;
+}
+
+label {
+  margin-bottom: 5px;
+  margin-top: 3px;
+}
+
+.form-contact {
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#wpcf7-f146-o1 {
+  display: flex;
+  align-items: center;
+}

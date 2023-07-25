@@ -1,0 +1,44 @@
+2023-03-15T21:17:53+00:00 CRITICAL Cannot redeclare wporg_custom_box_html() (previously declared in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php:90) в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php на строке 101
+
+2023-03-15T22:32:46+00:00 CRITICAL Cannot redeclare add_theme_support() (previously declared in C:\OpenServer\domains\localhost\wp-includes\theme.php:2594) в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\functions.php на строке 77
+
+2023-03-15T22:53:07+00:00 CRITICAL Uncaught Error: Call to undefined function the_thumbnail() in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\index.php:40
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\localhost\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\index.php на строке 40
+
+2023-03-15T22:53:09+00:00 CRITICAL Uncaught Error: Call to undefined function the_thumbnail() in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\index.php:40
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\localhost\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\index.php на строке 40
+
+2023-03-15T22:53:09+00:00 CRITICAL Uncaught Error: Call to undefined function the_thumbnail() in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\index.php:40
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\localhost\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\index.php на строке 40
+
+2023-03-15T22:53:10+00:00 CRITICAL Uncaught Error: Call to undefined function the_thumbnail() in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\index.php:40
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\localhost\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\index.php на строке 40
+
+2023-03-15T22:53:10+00:00 CRITICAL Uncaught Error: Call to undefined function the_thumbnail() in C:\OpenServer\domains\localhost\wp-content\themes\sport-time\index.php:40
+Stack trace:
+#0 C:\OpenServer\domains\localhost\wp-includes\template-loader.php(106): include()
+#1 C:\OpenServer\domains\localhost\wp-blog-header.php(19): require_once('C:\\OpenServer\\d...')
+#2 C:\OpenServer\domains\localhost\index.php(17): require('C:\\OpenServer\\d...')
+#3 {main}
+  thrown в C:\OpenServer\domains\localhost\wp-content\themes\sport-time\index.php на строке 40
+
