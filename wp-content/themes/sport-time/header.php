@@ -18,8 +18,8 @@
                     <a class="navbar-sm-brand text-light text-decoration-none" href="tel:89828224419">✆ + 7 (982) 822-44-19</a>
                 </div>
                 <div>
-                    <a class="text-light" href="https://vk.com/cegouchannel" target="_blank" rel="sponsored"><img src="http://u146490.test-handyhost.ru//wp-content/uploads/2023/03/vk-16.png" alt="..."></a>
-                    <a class="text-light" href="https://t.me/nikitochka_frontend" target="_blank"><img src="http://u146490.test-handyhost.ru//wp-content/uploads/2023/03/telegram-16.png" alt="..."></a>
+                    <a class="text-light" href="https://vk.com/cegouchannel" target="_blank" rel="sponsored"><img src="http://sporttime//wp-content/uploads/2023/03/vk-16.png" alt="..."></a>
+                    <a class="text-light" href="https://t.me/nikitochka_frontend" target="_blank"><img src="http://sporttime//wp-content/uploads/2023/03/telegram-16.png" alt="..."></a>
                 </div>
             </div>
         </div>

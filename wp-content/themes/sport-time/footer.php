@@ -42,10 +42,10 @@
             <div class="col-auto me-auto">
                 <ul class="list-inline text-left footer-icons">
                     <li class="list-inline-item border border-light rounded-circle text-center">
-                        <a class="text-light text-decoration-none" target="_blank" href="https://t.me/nikitochka_frontend"><img src="http://u146490.test-handyhost.ru/wp-content/uploads/2023/03/telegram-16.png" alt="..."></a>
+                        <a class="text-light text-decoration-none" target="_blank" href="https://t.me/nikitochka_frontend"><img src="http://sporttime/wp-content/uploads/2023/03/telegram-16.png" alt="..."></a>
                     </li>
                     <li class="list-inline-item border border-light rounded-circle text-center">
-                        <a class="text-light text-decoration-none" target="_blank" href="https:/vk.com/cegouchannel"><img src="http://u146490.test-handyhost.ru/wp-content/uploads/2023/03/vk-16.png" alt="..."></a>
+                        <a class="text-light text-decoration-none" target="_blank" href="https:/vk.com/cegouchannel"><img src="http://sporttime/wp-content/uploads/2023/03/vk-16.png" alt="..."></a>
                     </li>
                 </ul>
             </div>

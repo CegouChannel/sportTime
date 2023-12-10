@@ -20,13 +20,13 @@
 
 // ** Параметры базы данных: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define( 'DB_NAME', 'u146490_sporttime' );
+define( 'DB_NAME', 'sporttime' );
 
 /** Имя пользователя базы данных */
-define( 'DB_USER', 'u146490_cegouchannel' );
+define( 'DB_USER', 'root' );
 
 /** Пароль к базе данных */
-define( 'DB_PASSWORD', '25122003Nikita' );
+define( 'DB_PASSWORD', '' );
 
 /** Имя сервера базы данных */
 define( 'DB_HOST', 'localhost' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '(ZyQ]9{LO[i=N93sH@I|+9N yzI/Vxhxu^z|?c(HT^I#Pwap0Tm*6->0W/q)E.lQ' );
-define( 'SECURE_AUTH_KEY',  '@lW- (-PEO}/i1I!ksZKU#wS5]!)d.BkYGUCy;7Sv2.>oW.DuYH/@9zp?y^!P$NR' );
-define( 'LOGGED_IN_KEY',    '=fy=_oG7oa:cfk41e-GbR)>eUGTkr8=9sW0t5 E<PDMrf~,JxFeq<uXk9T=-C4g7' );
-define( 'NONCE_KEY',        'M~WumZt1~!eZu*sTO~*wjJUq|~eD,S990NJTQmW2_nSg`QxM?Jj|q diMBLeo?w}' );
-define( 'AUTH_SALT',        ', $?T12i&/erG:bKYx5:`=AR>`%ZbbBpA|RiM1$ET*Ar~g&`4JPlP@gypk:/n7s,' );
-define( 'SECURE_AUTH_SALT', '}Ul-vww_pRc&7_#m%~Sqp[EN~[9Tvfz=`=#eNz<L}lt2StG}iZ&Ie0W=/Ia..;Ws' );
-define( 'LOGGED_IN_SALT',   'rCyzu?QgrwH+m@`]~t1QST)] qLZ*r1dRqOpR`W/K`uafYX&0-=;6?-,%;JpZdBN' );
-define( 'NONCE_SALT',       'SVQlp`wO/la8]d|.HTBK@_U2>D_0hE6dOw@e4ge!G/YP]vBP1)To{iIg6b6Jx=!Y' );
+define( 'AUTH_KEY',         ',?hKVcAS^x7gqg2/uiELWE<$9QDh:]4F2Fp16~tziHj(+9<7)h*`kkL)0;aQ3Hc#' );
+define( 'SECURE_AUTH_KEY',  '|JcbyHD^Y6othmwZHs;VVihHjSmq1QOg(IH0}|#ECm}U]iem-E4v~O1wM&l$pND*' );
+define( 'LOGGED_IN_KEY',    '`<l1kF:<)-+nG?SCF@_[/}e#MI0D.f88Q-Nsag<Bc_/wmcgVAge|@z:rTi%p(2|y' );
+define( 'NONCE_KEY',        'i^7?cQ)dnkLx;Rf.H2KejuCB?FJ#bnuB%WDMe-#9F7yA{(Jo~!ywRs-,l:PK*/a4' );
+define( 'AUTH_SALT',        '#^e.7Kmspz8/9:(@u[rt7[I21G%eCnPY@7j:2OUxPlbp@tVw?E8Xu<kSc#pGn.x^' );
+define( 'SECURE_AUTH_SALT', ')Ts4LgCPQ,Opt)S%T2z0~x,pL51AX>mFd/5c9vTHj_^ze@E=URg*VFTd|+QiTZn|' );
+define( 'LOGGED_IN_SALT',   '-^W-H{qSS3Kd:f-zt+%bioy`U4T2{+h2-E}NKU-R.JpO5Jd>l_}2}?9=c]/y7)K ' );
+define( 'NONCE_SALT',       'nDW&-5nmOHCua{+deb81=YkhO?:h/+~od:m$N&mEt{of-Tw8$VN;B3Lr)N$I(M,d' );
 
 /**#@-*/
 

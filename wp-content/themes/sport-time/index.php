@@ -56,10 +56,10 @@
         ?>
     </div>
     <a class="carousel-control-prev text-decoration-none w-auto ps-3" href="#template-mo-zay-hero-carousel" role="button" data-bs-slide="prev">
-        <img src="http://u146490.test-handyhost.ru/wp-content/uploads/2023/03/left_arrow.png" alt="">
+        <img src="http://sporttime/wp-content/uploads/2023/03/left_arrow.png" alt="">
     </a>
     <a class="carousel-control-next text-decoration-none w-auto pe-3" href="#template-mo-zay-hero-carousel" role="button" data-bs-slide="next">
-        <img src="http://u146490.test-handyhost.ru/wp-content/uploads/2023/03/right_arrow.png" alt="">
+        <img src="http://sporttime/wp-content/uploads/2023/03/right_arrow.png" alt="">
     </a>
 </div>
 <!-- End Banner Hero -->
@@ -74,17 +74,17 @@
     </div>
     <div class="row">
         <div class="col-12 col-md-4 p-5 mt-3">
-            <a href="/product-category/mountain-bikes/"><img src="http://u146490.test-handyhost.ru/wp-content/uploads/2023/03/category_mointain.png" class="rounded-circle img-fluid border"></a>
+            <a href="/product-category/mountain-bikes/"><img src="http://sporttime/wp-content/uploads/2023/03/category_mointain.png" class="rounded-circle img-fluid border"></a>
             <h5 class="text-center mt-3 mb-3">Горные</h5>
             <p class="text-center"><a class="btn btn-success" href="/product-category/mountain-bikes/">Перейти в магазин</a></p>
         </div>
         <div class="col-12 col-md-4 p-5 mt-3">
-            <a href="/product-category/teenage-bicycles/"><img src="http://u146490.test-handyhost.ru/wp-content/uploads/2023/03/category_teenager.png" class="rounded-circle img-fluid border"></a>
+            <a href="/product-category/teenage-bicycles/"><img src="http://sporttime/wp-content/uploads/2023/03/category_teenager.png" class="rounded-circle img-fluid border"></a>
             <h2 class="h5 text-center mt-3 mb-3">Подростковые</h2>
             <p class="text-center"><a class="btn btn-success" href="/product-category/teenage-bicycles/">Перейти в магазин</a></p>
         </div>
         <div class="col-12 col-md-4 p-5 mt-3">
-            <a href="/product-category/childrens-bicycles/"><img src="http://u146490.test-handyhost.ru/wp-content/uploads/2023/03/category_childe.png" class="rounded-circle img-fluid border"></a>
+            <a href="/product-category/childrens-bicycles/"><img src="http://sporttime/wp-content/uploads/2023/03/category_childe.png" class="rounded-circle img-fluid border"></a>
             <h2 class="h5 text-center mt-3 mb-3">Детские</h2>
             <p class="text-center"><a class="btn btn-success" href="/product-category/childrens-bicycles/">Перейти в магазин</a></p>
         </div>

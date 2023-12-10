@@ -28,7 +28,7 @@
                 </p>
             </div>
             <div class="col-md-4">
-                <img style="max-width:400px; max-height:400px;" src="http://u146490.test-handyhost.ru/wp-content/uploads/2023/04/about-hero.png">
+                <img style="max-width:400px; max-height:400px;" src="http://sporttime/wp-content/uploads/2023/04/about-hero.png">
             </div>
         </div>
     </div>
